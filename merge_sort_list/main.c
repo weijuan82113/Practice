@@ -73,7 +73,7 @@ void	merge_sort(t_node **headRef)
 
 int	main(void)
 {
-	int		arr[] = {1000,12, 23, 42, 13, 43, 503, 223};
+	int		arr[] = {1000,1, 1, 42, 13, 43, 503, 223};
 	int		arr_size;
 	t_node	*head;
 

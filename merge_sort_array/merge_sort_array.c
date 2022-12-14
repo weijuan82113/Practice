@@ -68,7 +68,7 @@ void	print_array(int *arr, int size)
 
 int	main(void)
 {
-	int	array[] = {12, 23, 42, 13, 43};
+	int	array[] = {23, 12};
 	int	array_size;
 
 	array_size = sizeof(array) / sizeof(array[0]);
